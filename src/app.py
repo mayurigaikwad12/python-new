@@ -4,5 +4,8 @@ app = Flask(__name__)
 def index():
 	return "Hello world"
 
+def index1():
+	return "Hi"
+
 if __name__ == "__main__":
 	app.run()
