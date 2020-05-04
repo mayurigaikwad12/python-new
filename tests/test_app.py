@@ -3,6 +3,6 @@ def test_index():
 	assert index() == "Hello world"
 
 def test_index1():
-	assert index() == "Hello"
+	assert index1() == "Hello"
 
 	
